@@ -1,4 +1,4 @@
-# dotnet-template-azure-iot-edge-module
+# dotnet-template-azure-iot-edge-module 2
 > dotnet template to do scaffolding for Azure IoT Edge module development.
 
 This README will introduce how to install the dotnet template and then create Azure IoT Edge module with the template step by step.
